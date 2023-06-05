@@ -1,3 +1,13 @@
-Clare
-San Rafael, CA
-Meta Back-End Developer Certification
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
